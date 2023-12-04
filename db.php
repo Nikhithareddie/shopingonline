@@ -1,8 +1,8 @@
 <?php
 
-$servername = "localhost";
-$username = "root";
-$password = "";
+$servername = "shopniki.mysql.database.azure.com";
+$username = "nikhitha";
+$password = "Lifeisbeautiful@1";
 $db = "onlineshop";
 
 // Create connection
